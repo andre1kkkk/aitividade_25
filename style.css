@@ -126,3 +126,20 @@ pointer-events: auto;
   font-size: x-large;
     text-align: center;    
  }
+.android_ft {
+
+position: sticky;
+top: 120px;
+
+}
+.android_ft {
+height: 3000px;
+background: linear-gradient(to top, black , white);
+
+}
+.android_ft img {
+    position: sticky;
+    top: 120px;
+    
+    height: 600px;
+}
